@@ -19,7 +19,7 @@
     <img width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png">
     <img width="40px" height="40px" src="https://img.icons8.com/color/452/mongodb.png">
-    <img width="40px" height="40px" src="https://media.istockphoto.com/vectors/vector-illustration-of-an-icon-of-the-python-programming-language-in-vector-id1300888555?b=1&k=6&m=1300888555&s=170667a&w=0&h=Sy4_Qa4JSWtUYb9DevTQKq7mYQZ5OAA1iTwmMKa4vnM=">
+    <img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/python--v2.png">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>
 
