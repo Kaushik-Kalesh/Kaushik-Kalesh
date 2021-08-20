@@ -16,19 +16,11 @@
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
     <img width="35px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png">
     <img width="35px" height="40px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png">
-    <img width="40px" height="40px" src="http://www.pngall.com/wp-content/uploads/5/Cute-Pug-PNG-Image-File.png">
-    <img width="35px" height="46px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png">
-    <img width="40px" height="40px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png">
-    <img width="40px" height="40px" src="https://api.nuget.org/v3-flatcontainer/libsassbuilder/1.6.3/icon">
     <img width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png">
     <img width="40px" height="40px" src="https://img.icons8.com/color/452/mongodb.png">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png">
+    <img width="40px" height="40px" src="https://media.istockphoto.com/vectors/vector-illustration-of-an-icon-of-the-python-programming-language-in-vector-id1300888555?b=1&k=6&m=1300888555&s=170667a&w=0&h=Sy4_Qa4JSWtUYb9DevTQKq7mYQZ5OAA1iTwmMKa4vnM=">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-    <img width="40px" height="47px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png">
 </p>
 
 ## Most Used Languages
