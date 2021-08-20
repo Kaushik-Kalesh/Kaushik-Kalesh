@@ -13,3 +13,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding 💻, Gaming 🎮, Music 🎵 and playing Sports 🏏
 
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
