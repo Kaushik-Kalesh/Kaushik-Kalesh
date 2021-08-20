@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on web-dev, game-dev
 - 🤔 I’m looking for help with game-dev (with UE5), AI-dev
 - 💬 Ask me about web-dev, game-dev
-- 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: KDawg#8614
+- 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: @KDawg#8614
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Coding 💻, Gaming 🎮, Music 🎵 and playing Sports 🏏
 
