@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-Kalesh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kaushik-Kalesh&theme=cobalt&row=1&margin-w=5)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kaushik-Kalesh&theme=radical&row=1&margin-w=5)
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Kalesh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
