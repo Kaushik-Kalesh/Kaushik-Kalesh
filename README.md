@@ -70,7 +70,7 @@
 
 <p align="center">
 
-    <img src="https://github-profile-trophy.vercel.app/?username=hamiecod&theme=radical&margin-w=11&margin-h=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kaushik-Kalesh&theme=radical&margin-w=11&margin-h=10">
 
 </p>
 
