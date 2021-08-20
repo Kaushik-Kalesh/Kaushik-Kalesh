@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love Coding 💻, Gaming 🎮, Music 🎵 and playing Sports 🏏
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-Kalesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-Kalesh& layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Kalesh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
