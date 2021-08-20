@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Kaushik-Kalesh/Kaushik-Kalesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🔭 I’m currently working on a Card-Game with react, and a geogebra clone
@@ -12,4 +11,4 @@
 - 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: KDawg#8614
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding, Gaming, Music and playing Sports
--->
+
