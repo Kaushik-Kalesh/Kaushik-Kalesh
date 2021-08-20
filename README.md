@@ -39,5 +39,5 @@
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" alt="email">
 </a>
 <a style="margin:0px 2px;" href="https://discord.com/users/876802057191976970">
-    <img width="40px" height="40px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="discord">
+    <img width="40px" height="50px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="discord">
 </a>
