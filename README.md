@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Coding 💻, Gaming 🎮, Music 🎵 and playing Sports 🏏
 
-## Tech I Love
+## Tech I Use
 <p style="margin-left: 12px;">
     <img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
     <img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/python--v2.png">
