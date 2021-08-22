@@ -36,9 +36,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Kalesh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach Me Via
-<a style="margin:0px 2px;" href="mailto:kaushikkalesh@gmail.com">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" alt="email">
-</a>
 <a style="margin:0px 2px;" href="https://discord.com/users/876802057191976970">
     <img width="40px" height="40px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="discord">
+</a>
+<a style="margin:0px 2px;" href="mailto:kaushikkalesh@gmail.com">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" alt="email">
 </a>
