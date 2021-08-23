@@ -17,7 +17,7 @@
     <img width="40px" height="40px" src="https://img.icons8.com/ios/50/000000/unreal-engine--v1.png">
     <img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/python--v2.png">
     <img width="40px" height="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-    <img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
     <img width="40px" height="40px" src="https://img.icons8.com/color/452/mongodb.png">
     <img width="40px" height="40px" src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"/>
