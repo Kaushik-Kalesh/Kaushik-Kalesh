@@ -9,7 +9,7 @@
 - 💬 Ask me about web-dev, game-dev
 - 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: @KDawg#8614
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love Coding 💻, Gaming 🎮, Music 🎵 and playing Sports 🏏
+- ⚡ Fun fact: I love Coding 💻, Gaming 🎮, Music 🎵 and Sports 🏏
 
 ## Tech I Use
 <p style="margin-left: 12px;">
