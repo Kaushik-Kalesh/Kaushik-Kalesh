@@ -18,10 +18,8 @@
     <img width="40px" height="40px" src="https://img.icons8.com/color/452/mongodb.png">
     <img width="40px" height="40px" src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"/>
     <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png">
-    <img width="50px" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img width="50px" height="55px" src="https://icons8.com/icon/20909/html-5">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-    <img width="40px" height="45px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
     <img width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </p>
 
