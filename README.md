@@ -3,8 +3,6 @@
 ## About Me
 - 🌱 I’m currently learning DSA for Interview Preparation and Android Development
 - 🌐 I'm planning to learn Machine Learning 
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Web Development
 - 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: @KDawg#8614
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Sweaty Gamer (Games: Apex Legends, COD Warzoen 2.0)
