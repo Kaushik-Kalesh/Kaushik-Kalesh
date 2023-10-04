@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=👋Hey%20there!%20I%20am%20Kaushik👦&fontSize=57&reversal=true&desc=I%20am%20a%20highschooler%20who%20loves%20coding!&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 ## About Me
-- 🌱 I’m currently learning DSA for Interview Preparation and Android Development
+- 🌱 I’m currently learning Android Development and DSA for Interview Preparation
 - 🌐 I'm planning to learn Machine Learning 
 - 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: @KDawg#8614
 - 😄 Pronouns: He/Him
