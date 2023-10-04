@@ -5,7 +5,7 @@
 - 🌐 I'm planning to learn Machine Learning 
 - 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: @KDawg#8614
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Sweaty Gamer (Games: Apex Legends, COD Warzoen 2.0)
+- ⚡ Fun fact: I am a Sweaty Gamer (Games: Apex Legends, COD Warzone 2.0)
 
 ## Tech I Use
 <p style="margin-left: 12px;">
