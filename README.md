@@ -36,3 +36,7 @@
 <a style="margin:0px 2px;" href="mailto:kaushikkalesh@gmail.com">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" alt="email">
 </a>
+
+<p align="center">
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Kaushik-Kalesh&style=flat-square" />
+</p>
