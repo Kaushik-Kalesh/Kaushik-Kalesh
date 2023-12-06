@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently learning Android Development and DSA for Interview Preparation
-- 🌐 I'm planning to learn Machine Learning 
+- 🌐 I'm intrigued by Machine Learning, and Low Level concepts 
 - 📫 How to reach me: email: kaushikkalesh@gmail.com, discord: @KDawg#8614
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Sweaty Gamer (Games: Apex Legends, COD Warzone 2.0)
