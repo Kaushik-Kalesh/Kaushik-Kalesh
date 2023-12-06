@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=👋Hey%20there!%20I%20am%20Kaushik👦&fontSize=57&reversal=true&desc=I%20am%20a%2018%20y/o%20who%20loves%20coding!&animation=fadeIn&descSize=26&descAlignY=62&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=👋Hey%20there!%20I%20am%20Kaushik👦&fontSize=57&reversal=true&desc=I%20am%20an%2018%20y/o%20who%20simply%20loves%20coding!&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 ## About Me
 - 🌱 I’m currently learning Android Development and DSA for Interview Preparation
