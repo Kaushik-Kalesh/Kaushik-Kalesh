@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=👋Hey%20there!%20I%20am%20Kaushik👦&fontSize=57&reversal=true&desc=An%20guy%20who%20simply%20loves%20tech!&animation=fadeIn&descSize=26&descAlignY=62&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=👋Hey%20there!%20I%20am%20Kaushik👦&fontSize=57&reversal=true&desc=A%20guy%20who%20simply%20loves%20tech!&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 ## About Me
 - 🌟 I am a software application developer (since 2020)
